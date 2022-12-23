@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaf6763c-1375-4fc5-9e52-9309a888a069" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +35,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StarPattern">
+  <component name="RunManager" selected="Application.ReverseString">
     <configuration name="NumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberPattern" />
+      <module name="Workshop3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
       <module name="Workshop3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,8 +59,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StarPattern" />
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.NumberPattern" />
+        <item itemvalue="Application.StarPattern" />
       </list>
     </recent_temporary>
   </component>
